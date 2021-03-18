@@ -1,0 +1,13 @@
+C:\Users\music\source\repos\TallerEntrega\TallerEntrega\bin\Debug\netcoreapp3.1\TallerEntrega.exe
+C:\Users\music\source\repos\TallerEntrega\TallerEntrega\bin\Debug\netcoreapp3.1\TallerEntrega.deps.json
+C:\Users\music\source\repos\TallerEntrega\TallerEntrega\bin\Debug\netcoreapp3.1\TallerEntrega.runtimeconfig.json
+C:\Users\music\source\repos\TallerEntrega\TallerEntrega\bin\Debug\netcoreapp3.1\TallerEntrega.runtimeconfig.dev.json
+C:\Users\music\source\repos\TallerEntrega\TallerEntrega\bin\Debug\netcoreapp3.1\TallerEntrega.dll
+C:\Users\music\source\repos\TallerEntrega\TallerEntrega\bin\Debug\netcoreapp3.1\TallerEntrega.pdb
+C:\Users\music\source\repos\TallerEntrega\TallerEntrega\obj\Debug\netcoreapp3.1\TallerEntrega.csprojAssemblyReference.cache
+C:\Users\music\source\repos\TallerEntrega\TallerEntrega\obj\Debug\netcoreapp3.1\TallerEntrega.AssemblyInfoInputs.cache
+C:\Users\music\source\repos\TallerEntrega\TallerEntrega\obj\Debug\netcoreapp3.1\TallerEntrega.AssemblyInfo.cs
+C:\Users\music\source\repos\TallerEntrega\TallerEntrega\obj\Debug\netcoreapp3.1\TallerEntrega.csproj.CoreCompileInputs.cache
+C:\Users\music\source\repos\TallerEntrega\TallerEntrega\obj\Debug\netcoreapp3.1\TallerEntrega.dll
+C:\Users\music\source\repos\TallerEntrega\TallerEntrega\obj\Debug\netcoreapp3.1\TallerEntrega.pdb
+C:\Users\music\source\repos\TallerEntrega\TallerEntrega\obj\Debug\netcoreapp3.1\TallerEntrega.genruntimeconfig.cache
